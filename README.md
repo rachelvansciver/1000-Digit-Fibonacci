@@ -1,0 +1,2 @@
+Solution to Project Euler Problem # 25: What is the index of the first term in the Fibonacci sequence to contain 1000 digits? Can be found at https://projecteuler.net/problem=25 Uses Dynamic Programming on Fibonacci Sequence. 
+More info on dynamic programming can be found at https://en.wikipedia.org/wiki/Dynamic_programming and more cool facts about the Fibonacci Sequence can be found at https://fibonacci.com/golden-ratio/ :)
